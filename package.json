@@ -72,7 +72,7 @@
     "typescript": "^5.4.5"
   },
   "peerDependencies": {
-    "react": ">=17 <=18"
+    "react": ">=17 <=19"
   },
   "keywords": [
     "react",
